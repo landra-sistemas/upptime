@@ -22,17 +22,19 @@
     "url": "https://dash.landrasoftware.com",
     "icon": "https://icons.duckduckgo.com/ip3/dash.landrasoftware.com.ico",
     "slug": "dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1129,
-    "timeDay": 1129,
-    "timeWeek": 1129,
-    "timeMonth": 1129,
-    "timeYear": 1129,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 1065,
+    "timeDay": 1065,
+    "timeWeek": 1065,
+    "timeMonth": 1065,
+    "timeYear": 1065,
+    "dailyMinutesDown": {
+      "2025-05-09": 0
+    }
   }
 ]
