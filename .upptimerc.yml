@@ -45,7 +45,7 @@ status-website:
   introMessage: Los siguientes endpoints se encuentran monitorizados mediante Github. El sistema gestionará automáticamente las Alertas de inactividad y los tiempos de respuesta de cada uno de ellos.
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
