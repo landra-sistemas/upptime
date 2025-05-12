@@ -1,7 +1,7 @@
-url: https://teamcity.landrasoftware.com/
-status: down
-code: 401
-responseTime: 750
-lastUpdated: 2025-05-12T13:22:48.101Z
+url: https://teamcity.landrasoftware.com/login.html
+status: up
+code: 200
+responseTime: 1091
+lastUpdated: 2025-05-12T13:24:02.306Z
 startTime: 2025-05-12T13:18:53.515Z
 generator: Upptime <https://github.com/upptime/upptime>
