@@ -189,18 +189,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.landrasistemas.net.ico",
     "slug": "oficina-wan",
     "status": "up",
-    "uptime": "0.97%",
-    "uptimeDay": "0.97%",
-    "uptimeWeek": "0.97%",
-    "uptimeMonth": "0.97%",
-    "uptimeYear": "0.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 950,
     "timeDay": 950,
     "timeWeek": 950,
     "timeMonth": 950,
     "timeYear": 950,
-    "dailyMinutesDown": {
-      "2025-05-12": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
