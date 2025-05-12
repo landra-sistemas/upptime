@@ -7,6 +7,10 @@ sites:
     url: https://www.landrasistemas.es
   - name: Dashboard
     url: https://dash.landrasoftware.com
+  - name: Telf. Guardia Landra
+    url: https://integration.landrasoftware.com/GuardiaLandra
+  - name: Telf. Guardia Abbot
+    url: https://integration.landrasoftware.com/GuardiaAbbott
 
 assignees:
   - thorin8k
