@@ -29,6 +29,8 @@ sites:
   - name: Oficina (WAN)
     url: https://oficina.landrasistemas.net/
     __dangerous__insecure: true
+    expectedStatusCodes:
+      - 403
     
 
 assignees:
