@@ -14,6 +14,22 @@ sites:
   - name: Telf. Guardia Abbot
     url: https://integration.landrasoftware.com/GuardiaAbbott
     icon: https://dash.landrasoftware.com/data/userTabs/favicon.png
+  - name: Teamcity (DEV)
+    url: https://teamcity.landrasoftware.com/
+  - name: Sonarqube (DEV)
+    url: https://sonar.landrasoftware.com
+  - name: GasNatural (Clientes)
+    url: http://www.portaleolico.com/
+  - name: Ypsofact (Clientes)
+    url: https://ypsofact.landrasoftware.com/
+  - name: Microviable (Clientes)
+    url: https://microbiota.microviable.com/
+  - name: Uriach (Clientes)
+    url: https://uriach.landrasoftware.com/
+  - name: Oficina (WAN)
+    url: https://oficina.landrasistemas.net/
+    __dangerous__disable_verify_peer: true
+    
 
 assignees:
   - thorin8k
