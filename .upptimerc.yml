@@ -15,7 +15,7 @@ sites:
     url: https://integration.landrasoftware.com/GuardiaAbbott
     icon: https://dash.landrasoftware.com/data/userTabs/favicon.png
   - name: Teamcity (DEV)
-    url: https://teamcity.landrasoftware.com/
+    url: https://teamcity.landrasoftware.com/login.html
   - name: Sonarqube (DEV)
     url: https://sonar.landrasoftware.com
   - name: GasNatural (Clientes)
