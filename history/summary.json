@@ -98,19 +98,19 @@
     "url": "https://sonar.landrasoftware.com",
     "icon": "https://icons.duckduckgo.com/ip3/sonar.landrasoftware.com.ico",
     "slug": "sonarqube-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 990,
-    "timeWeek": 991,
-    "timeMonth": 991,
-    "timeYear": 991,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 999,
+    "timeDay": 1023,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 999,
     "dailyMinutesDown": {
-      "2025-05-15": 0
+      "2025-05-15": 11
     }
   },
   {
