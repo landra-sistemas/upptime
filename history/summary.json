@@ -4,18 +4,19 @@
     "url": "https://www.landrasistemas.es",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.56%",
     "time": 4579,
     "timeDay": 3799,
-    "timeWeek": 4478,
+    "timeWeek": 4713,
     "timeMonth": 4579,
     "timeYear": 4579,
     "dailyMinutesDown": {
+      "2025-05-19": 0,
       "2025-05-17": 44,
       "2025-05-12": 20
     }
@@ -26,14 +27,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.landrasoftware.com.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "98.00%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.00%",
-    "uptimeYear": "98.00%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
     "time": 948,
     "timeDay": 732,
-    "timeWeek": 879,
+    "timeWeek": 802,
     "timeMonth": 948,
     "timeYear": 948,
     "dailyMinutesDown": {
@@ -53,7 +54,7 @@
     "uptimeYear": "100.00%",
     "time": 584,
     "timeDay": 472,
-    "timeWeek": 558,
+    "timeWeek": 496,
     "timeMonth": 584,
     "timeYear": 584,
     "dailyMinutesDown": {}
@@ -71,7 +72,7 @@
     "uptimeYear": "100.00%",
     "time": 134,
     "timeDay": 100,
-    "timeWeek": 128,
+    "timeWeek": 129,
     "timeMonth": 134,
     "timeYear": 134,
     "dailyMinutesDown": {}
@@ -89,7 +90,7 @@
     "uptimeYear": "99.84%",
     "time": 745,
     "timeDay": 708,
-    "timeWeek": 745,
+    "timeWeek": 716,
     "timeMonth": 745,
     "timeYear": 745,
     "dailyMinutesDown": {
@@ -109,7 +110,7 @@
     "uptimeYear": "100.00%",
     "time": 954,
     "timeDay": 548,
-    "timeWeek": 954,
+    "timeWeek": 904,
     "timeMonth": 954,
     "timeYear": 954,
     "dailyMinutesDown": {}
@@ -127,7 +128,7 @@
     "uptimeYear": "100.00%",
     "time": 536,
     "timeDay": 429,
-    "timeWeek": 536,
+    "timeWeek": 494,
     "timeMonth": 536,
     "timeYear": 536,
     "dailyMinutesDown": {}
@@ -145,7 +146,7 @@
     "uptimeYear": "100.00%",
     "time": 562,
     "timeDay": 490,
-    "timeWeek": 562,
+    "timeWeek": 557,
     "timeMonth": 562,
     "timeYear": 562,
     "dailyMinutesDown": {}
@@ -163,7 +164,7 @@
     "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 517,
-    "timeWeek": 534,
+    "timeWeek": 485,
     "timeMonth": 534,
     "timeYear": 534,
     "dailyMinutesDown": {}
@@ -181,7 +182,7 @@
     "uptimeYear": "100.00%",
     "time": 671,
     "timeDay": 627,
-    "timeWeek": 671,
+    "timeWeek": 591,
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {}
@@ -199,7 +200,7 @@
     "uptimeYear": "100.00%",
     "time": 883,
     "timeDay": 599,
-    "timeWeek": 883,
+    "timeWeek": 854,
     "timeMonth": 883,
     "timeYear": 883,
     "dailyMinutesDown": {}
