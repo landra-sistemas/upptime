@@ -36,6 +36,8 @@ sites:
     url: https://integration.landrasoftware.com/synology_check?filter=Identity
   - name: Synology C2 Password
     url: https://integration.landrasoftware.com/synology_check?filter=Password
+  - name: ESET Protect Cloud
+    url: https://integration.landrasoftware.com/eset_check
     
 
 assignees:
