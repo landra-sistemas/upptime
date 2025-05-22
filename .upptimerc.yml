@@ -31,6 +31,11 @@ sites:
     __dangerous__insecure: true
     expectedStatusCodes:
       - 403
+
+  - name: Synology C2 Identity
+    url: https://integration.landrasoftware.com/synology_check?filter=Identity
+  - name: Synology C2 Password
+    url: https://integration.landrasoftware.com/synology_check?filter=Password
     
 
 assignees:
