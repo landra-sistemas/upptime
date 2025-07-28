@@ -43,9 +43,9 @@
     "url": "https://dash.landrasoftware.com",
     "icon": "https://icons.duckduckgo.com/ip3/dash.landrasoftware.com.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
@@ -55,6 +55,7 @@
     "timeMonth": 945,
     "timeYear": 988,
     "dailyMinutesDown": {
+      "2025-07-28": 0,
       "2025-06-09": 30,
       "2025-05-09": 287
     }
@@ -64,9 +65,9 @@
     "url": "https://integration.landrasoftware.com/GuardiaLandra",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "telf-guardia-landra",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +76,9 @@
     "timeWeek": 651,
     "timeMonth": 659,
     "timeYear": 655,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-28": 0
+    }
   },
   {
     "name": "Telf. Guardia Abbot",
@@ -84,7 +87,7 @@
     "slug": "telf-guardia-abbot",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,16 +96,18 @@
     "timeWeek": 123,
     "timeMonth": 126,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-28": 0
+    }
   },
   {
     "name": "Teamcity (DEV)",
     "url": "https://teamcity.landrasoftware.com/login.html",
     "icon": "https://icons.duckduckgo.com/ip3/teamcity.landrasoftware.com.ico",
     "slug": "teamcity-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -112,6 +117,7 @@
     "timeMonth": 827,
     "timeYear": 1097,
     "dailyMinutesDown": {
+      "2025-07-28": 0,
       "2025-06-10": 18,
       "2025-06-09": 42,
       "2025-05-19": 16
@@ -122,9 +128,9 @@
     "url": "https://sonar.landrasoftware.com",
     "icon": "https://icons.duckduckgo.com/ip3/sonar.landrasoftware.com.ico",
     "slug": "sonarqube-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -134,6 +140,7 @@
     "timeMonth": 943,
     "timeYear": 995,
     "dailyMinutesDown": {
+      "2025-07-28": 0,
       "2025-06-09": 30
     }
   },
@@ -160,9 +167,9 @@
     "url": "https://ypsofact.landrasoftware.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ypsofact.landrasoftware.com.ico",
     "slug": "ypsofact-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -172,6 +179,7 @@
     "timeMonth": 613,
     "timeYear": 608,
     "dailyMinutesDown": {
+      "2025-07-28": 0,
       "2025-06-12": 35
     }
   },
@@ -234,9 +242,9 @@
     "url": "https://integration.landrasoftware.com/synology_check?filter=Identity",
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "synology-c2-identity",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -245,16 +253,18 @@
     "timeWeek": 685,
     "timeMonth": 706,
     "timeYear": 831,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-28": 0
+    }
   },
   {
     "name": "Synology C2 Password",
     "url": "https://integration.landrasoftware.com/synology_check?filter=Password",
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "synology-c2-password",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -263,25 +273,28 @@
     "timeWeek": 294,
     "timeMonth": 281,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-28": 0
+    }
   },
   {
     "name": "ESET Protect Cloud",
     "url": "https://integration.landrasoftware.com/eset_check",
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "eset-protect-cloud",
-    "status": "up",
-    "uptime": "95.86%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.88%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.44%",
-    "uptimeYear": "95.86%",
+    "uptimeYear": "95.88%",
     "time": 766,
     "timeDay": 376,
     "timeWeek": 481,
     "timeMonth": 498,
     "timeYear": 766,
     "dailyMinutesDown": {
+      "2025-07-28": 0,
       "2025-07-15": 42,
       "2025-07-08": 73,
       "2025-07-06": 198,
