@@ -1,7 +1,7 @@
 url: https://integration.landrasoftware.com/eset_check
-status: up
-code: 200
-responseTime: 330
-lastUpdated: 2025-11-20T23:20:40.448Z
+status: down
+code: 500
+responseTime: 743
+lastUpdated: 2025-11-21T12:29:05.894Z
 startTime: 2025-05-22T14:41:20.612Z
 generator: Upptime <https://github.com/upptime/upptime>
