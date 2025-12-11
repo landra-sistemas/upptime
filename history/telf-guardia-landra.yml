@@ -1,7 +1,7 @@
 url: https://integration.landrasoftware.com/GuardiaLandra
-status: up
-code: 200
-responseTime: 1001
-lastUpdated: 2025-12-10T23:20:21.111Z
+status: down
+code: 502
+responseTime: 827
+lastUpdated: 2025-12-11T12:52:59.782Z
 startTime: 2025-05-12T07:49:20.997Z
 generator: Upptime <https://github.com/upptime/upptime>
