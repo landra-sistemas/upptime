@@ -4,14 +4,14 @@
     "url": "https://www.landrasistemas.es",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
-    "status": "up",
-    "uptime": "99.17%",
-    "uptimeDay": "85.77%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "85.75%",
     "uptimeWeek": "96.09%",
     "uptimeMonth": "97.27%",
-    "uptimeYear": "99.17%",
+    "uptimeYear": "99.18%",
     "time": 4332,
-    "timeDay": 3335,
+    "timeDay": 3307,
     "timeWeek": 4526,
     "timeMonth": 3851,
     "timeYear": 4332,
@@ -77,8 +77,7 @@
       "2025-10-29": 25,
       "2025-10-28": 99,
       "2025-10-13": 40,
-      "2025-10-12": 24,
-      "2025-10-10": 30
+      "2025-10-12": 24
     }
   },
   {
@@ -396,7 +395,7 @@
     "slug": "eset-protect-cloud",
     "status": "up",
     "uptime": "95.07%",
-    "uptimeDay": "17.24%",
+    "uptimeDay": "32.87%",
     "uptimeWeek": "49.08%",
     "uptimeMonth": "79.78%",
     "uptimeYear": "95.07%",
