@@ -1,7 +1,7 @@
 url: https://teamcity.landrasoftware.com/login.html
-status: down
-code: 502
-responseTime: 1539
-lastUpdated: 2026-03-09T23:31:13.624Z
+status: up
+code: 200
+responseTime: 646
+lastUpdated: 2026-03-10T08:26:57.051Z
 startTime: 2025-05-12T13:18:53.515Z
 generator: Upptime <https://github.com/upptime/upptime>
