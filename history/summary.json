@@ -4,12 +4,12 @@
     "url": "https://www.landrasistemas.es",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "94.25%",
-    "uptimeWeek": "93.86%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "94.23%",
+    "uptimeWeek": "93.89%",
     "uptimeMonth": "93.28%",
-    "uptimeYear": "98.99%",
+    "uptimeYear": "99.01%",
     "time": 4224,
     "timeDay": 4154,
     "timeWeek": 5421,
@@ -65,8 +65,7 @@
       "2026-01-25": 32,
       "2026-01-24": 17,
       "2026-01-23": 69,
-      "2026-01-22": 37,
-      "2026-01-21": 62
+      "2026-01-22": 37
     }
   },
   {
