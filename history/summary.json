@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "98.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.55%",
+    "uptimeWeek": "96.59%",
     "uptimeMonth": "95.53%",
     "uptimeYear": "98.93%",
     "time": 4202,
     "timeDay": 2611,
-    "timeWeek": 4056,
+    "timeWeek": 3835,
     "timeMonth": 4022,
     "timeYear": 4202,
     "dailyMinutesDown": {
@@ -289,9 +289,9 @@
     "url": "https://microbiota.microviable.com/",
     "icon": "https://icons.duckduckgo.com/ip3/microbiota.microviable.com.ico",
     "slug": "microviable-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -300,7 +300,9 @@
     "timeWeek": 646,
     "timeMonth": 621,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-22": 0
+    }
   },
   {
     "name": "Uriach (Clientes)",
