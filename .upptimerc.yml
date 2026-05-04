@@ -19,7 +19,7 @@ sites:
   - name: Sonarqube (DEV)
     url: https://sonar.landrasoftware.com
   - name: GasNatural (Clientes)
-    url: http://www.portaleolico.com/
+    url: https://www.portaleolico.com
   - name: Ypsofact (Clientes)
     url: https://ypsofact.landrasoftware.com/
   - name: Microviable (Clientes)
