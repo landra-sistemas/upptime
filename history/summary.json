@@ -6,7 +6,7 @@
     "slug": "landra-website",
     "status": "up",
     "uptime": "98.62%",
-    "uptimeDay": "50.92%",
+    "uptimeDay": "59.17%",
     "uptimeWeek": "82.38%",
     "uptimeMonth": "93.42%",
     "uptimeYear": "98.53%",
@@ -81,11 +81,11 @@
     "url": "https://dash.landrasoftware.com",
     "icon": "https://icons.duckduckgo.com/ip3/dash.landrasoftware.com.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.25%",
     "time": 990,
     "timeDay": 987,
@@ -112,7 +112,8 @@
       "2026-02-11": 39,
       "2026-03-10": 472,
       "2026-03-09": 223,
-      "2026-03-17": 63
+      "2026-03-17": 63,
+      "2026-05-31": 19
     }
   },
   {
@@ -170,11 +171,11 @@
     "url": "https://sonar.landrasoftware.com",
     "icon": "https://icons.duckduckgo.com/ip3/sonar.landrasoftware.com.ico",
     "slug": "sonarqube-dev",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.32%",
     "time": 1152,
     "timeDay": 1070,
@@ -197,7 +198,8 @@
       "2025-12-10": 30,
       "2026-02-05": 59,
       "2026-03-10": 473,
-      "2026-03-09": 222
+      "2026-03-09": 222,
+      "2026-05-31": 8
     }
   },
   {
@@ -303,12 +305,12 @@
     "url": "https://oficina.landrasistemas.net/",
     "icon": "https://icons.duckduckgo.com/ip3/oficina.landrasistemas.net.ico",
     "slug": "oficina-wan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "99.78%",
     "time": 968,
     "timeDay": 873,
     "timeWeek": 909,
@@ -321,7 +323,8 @@
       "2025-10-12": 174,
       "2026-02-22": 22,
       "2026-02-27": 129,
-      "2026-03-01": 42
+      "2026-03-01": 42,
+      "2026-05-31": 2
     }
   },
   {
@@ -383,12 +386,12 @@
     "slug": "eset-protect-cloud",
     "status": "up",
     "uptime": "96.13%",
-    "uptimeDay": "97.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.04%",
     "uptimeMonth": "97.83%",
     "uptimeYear": "96.04%",
     "time": 597,
-    "timeDay": 929,
+    "timeDay": 1212,
     "timeWeek": 769,
     "timeMonth": 640,
     "timeYear": 551,
