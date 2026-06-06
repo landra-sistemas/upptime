@@ -4,17 +4,17 @@
     "url": "https://www.landrasistemas.es",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
-    "status": "down",
-    "uptime": "98.43%",
-    "uptimeDay": "64.64%",
+    "status": "up",
+    "uptime": "98.42%",
+    "uptimeDay": "61.72%",
     "uptimeWeek": "82.71%",
-    "uptimeMonth": "91.05%",
-    "uptimeYear": "98.31%",
+    "uptimeMonth": "90.90%",
+    "uptimeYear": "98.30%",
     "time": 4141,
-    "timeDay": 4659,
-    "timeWeek": 3485,
-    "timeMonth": 3893,
-    "timeYear": 4142,
+    "timeDay": 4616,
+    "timeWeek": 3499,
+    "timeMonth": 3890,
+    "timeYear": 4141,
     "dailyMinutesDown": {
       "2026-03-03": 91,
       "2026-03-02": 8,
@@ -73,7 +73,7 @@
       "2026-05-31": 369,
       "2026-06-04": 282,
       "2026-06-05": 539,
-      "2026-06-06": 427
+      "2026-06-06": 491
     }
   },
   {
@@ -209,17 +209,17 @@
     "url": "https://www.portaleolico.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.portaleolico.com.ico",
     "slug": "gas-natural-clientes",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "92.09%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.09%",
-    "uptimeYear": "99.49%",
-    "time": 750,
-    "timeDay": 1320,
-    "timeWeek": 1591,
-    "timeMonth": 1534,
-    "timeYear": 760,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "87.61%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "99.48%",
+    "time": 752,
+    "timeDay": 1321,
+    "timeWeek": 1567,
+    "timeMonth": 1530,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2025-10-10": 20,
       "2026-04-28": 438,
@@ -233,7 +233,7 @@
       "2026-05-21": 22,
       "2026-05-23": 56,
       "2026-05-30": 158,
-      "2026-06-06": 113
+      "2026-06-06": 178
     }
   },
   {
