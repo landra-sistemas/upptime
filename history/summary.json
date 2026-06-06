@@ -4,19 +4,18 @@
     "url": "https://www.landrasistemas.es",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
-    "status": "up",
-    "uptime": "98.41%",
-    "uptimeDay": "54.96%",
+    "status": "down",
+    "uptime": "98.42%",
+    "uptimeDay": "56.15%",
     "uptimeWeek": "81.94%",
     "uptimeMonth": "90.59%",
     "uptimeYear": "98.29%",
     "time": 4144,
-    "timeDay": 5093,
+    "timeDay": 5378,
     "timeWeek": 3639,
     "timeMonth": 3949,
     "timeYear": 4145,
     "dailyMinutesDown": {
-      "2026-03-03": 33,
       "2026-03-04": 105,
       "2026-03-05": 203,
       "2026-03-06": 160,
@@ -72,7 +71,7 @@
       "2026-05-31": 369,
       "2026-06-04": 282,
       "2026-06-05": 539,
-      "2026-06-06": 629
+      "2026-06-06": 630
     }
   },
   {
@@ -90,7 +89,7 @@
     "timeDay": 745,
     "timeWeek": 936,
     "timeMonth": 887,
-    "timeYear": 991,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2025-06-09": 30,
       "2025-07-28": 121,
@@ -131,7 +130,7 @@
     "timeDay": 457,
     "timeWeek": 621,
     "timeMonth": 582,
-    "timeYear": 660,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2025-07-28": 121,
       "2025-08-27": 17,
@@ -156,7 +155,7 @@
     "timeDay": 280,
     "timeWeek": 522,
     "timeMonth": 518,
-    "timeYear": 158,
+    "timeYear": 159,
     "dailyMinutesDown": {
       "2025-07-28": 121,
       "2025-08-27": 17,
@@ -181,7 +180,7 @@
     "timeDay": 924,
     "timeWeek": 837,
     "timeMonth": 878,
-    "timeYear": 1161,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2025-06-09": 30,
       "2025-07-28": 121,
@@ -208,16 +207,16 @@
     "url": "https://www.portaleolico.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.portaleolico.com.ico",
     "slug": "gas-natural-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "78.05%",
+    "uptimeDay": "78.02%",
     "uptimeWeek": "96.86%",
     "uptimeMonth": "97.62%",
     "uptimeYear": "99.46%",
     "time": 755,
-    "timeDay": 1384,
-    "timeWeek": 1563,
-    "timeMonth": 1530,
+    "timeDay": 1296,
+    "timeWeek": 1500,
+    "timeMonth": 1513,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2025-10-10": 20,
@@ -278,7 +277,7 @@
     "timeDay": 419,
     "timeWeek": 623,
     "timeMonth": 602,
-    "timeYear": 619,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2026-04-23": 551,
       "2026-04-22": 955
