@@ -5,14 +5,14 @@
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
     "status": "down",
-    "uptime": "98.23%",
-    "uptimeDay": "76.59%",
-    "uptimeWeek": "69.41%",
-    "uptimeMonth": "86.86%",
-    "uptimeYear": "98.07%",
+    "uptime": "98.19%",
+    "uptimeDay": "67.53%",
+    "uptimeWeek": "67.30%",
+    "uptimeMonth": "86.38%",
+    "uptimeYear": "98.03%",
     "time": 4151,
-    "timeDay": 4088,
-    "timeWeek": 4811,
+    "timeDay": 3001,
+    "timeWeek": 4866,
     "timeMonth": 4108,
     "timeYear": 4161,
     "dailyMinutesDown": {
@@ -72,7 +72,7 @@
       "2026-06-07": 834,
       "2026-06-08": 422,
       "2026-06-09": 359,
-      "2026-06-10": 1
+      "2026-06-10": 213
     }
   },
   {
@@ -88,7 +88,7 @@
     "uptimeYear": "99.00%",
     "time": 986,
     "timeDay": 802,
-    "timeWeek": 771,
+    "timeWeek": 780,
     "timeMonth": 880,
     "timeYear": 982,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "uptimeYear": "99.88%",
     "time": 656,
     "timeDay": 487,
-    "timeWeek": 476,
+    "timeWeek": 484,
     "timeMonth": 578,
     "timeYear": 659,
     "dailyMinutesDown": {
@@ -178,7 +178,7 @@
     "uptimeYear": "99.07%",
     "time": 1143,
     "timeDay": 703,
-    "timeWeek": 840,
+    "timeWeek": 883,
     "timeMonth": 888,
     "timeYear": 1153,
     "dailyMinutesDown": {
@@ -207,14 +207,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.portaleolico.com.ico",
     "slug": "gas-natural-clientes",
     "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "82.36%",
-    "uptimeWeek": "85.52%",
-    "uptimeMonth": "95.01%",
-    "uptimeYear": "99.24%",
+    "uptime": "99.26%",
+    "uptimeDay": "67.57%",
+    "uptimeWeek": "83.40%",
+    "uptimeMonth": "94.53%",
+    "uptimeYear": "99.20%",
     "time": 769,
     "timeDay": 1090,
-    "timeWeek": 1241,
+    "timeWeek": 1235,
     "timeMonth": 1427,
     "timeYear": 781,
     "dailyMinutesDown": {
@@ -234,7 +234,7 @@
       "2026-06-07": 456,
       "2026-06-08": 418,
       "2026-06-09": 253,
-      "2026-06-10": 0
+      "2026-06-10": 213
     }
   },
   {
@@ -250,7 +250,7 @@
     "uptimeYear": "99.82%",
     "time": 607,
     "timeDay": 564,
-    "timeWeek": 481,
+    "timeWeek": 484,
     "timeMonth": 548,
     "timeYear": 609,
     "dailyMinutesDown": {
@@ -278,7 +278,7 @@
     "uptimeYear": "99.71%",
     "time": 615,
     "timeDay": 558,
-    "timeWeek": 534,
+    "timeWeek": 542,
     "timeMonth": 607,
     "timeYear": 618,
     "dailyMinutesDown": {
@@ -299,7 +299,7 @@
     "uptimeYear": "100.00%",
     "time": 715,
     "timeDay": 565,
-    "timeWeek": 569,
+    "timeWeek": 578,
     "timeMonth": 662,
     "timeYear": 715,
     "dailyMinutesDown": {}
@@ -317,7 +317,7 @@
     "uptimeYear": "99.53%",
     "time": 962,
     "timeDay": 618,
-    "timeWeek": 711,
+    "timeWeek": 722,
     "timeMonth": 832,
     "timeYear": 955,
     "dailyMinutesDown": {
@@ -345,7 +345,7 @@
     "uptimeYear": "99.88%",
     "time": 633,
     "timeDay": 776,
-    "timeWeek": 686,
+    "timeWeek": 708,
     "timeMonth": 718,
     "timeYear": 616,
     "dailyMinutesDown": {
@@ -371,7 +371,7 @@
     "uptimeYear": "99.89%",
     "time": 293,
     "timeDay": 660,
-    "timeWeek": 603,
+    "timeWeek": 612,
     "timeMonth": 616,
     "timeYear": 285,
     "dailyMinutesDown": {
@@ -397,7 +397,7 @@
     "uptimeYear": "96.05%",
     "time": 600,
     "timeDay": 658,
-    "timeWeek": 696,
+    "timeWeek": 700,
     "timeMonth": 746,
     "timeYear": 556,
     "dailyMinutesDown": {
