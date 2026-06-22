@@ -4,17 +4,17 @@
     "url": "https://www.landrasistemas.es",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
-    "status": "down",
-    "uptime": "97.97%",
-    "uptimeDay": "80.92%",
-    "uptimeWeek": "78.08%",
-    "uptimeMonth": "82.60%",
-    "uptimeYear": "97.73%",
+    "status": "up",
+    "uptime": "97.93%",
+    "uptimeDay": "65.53%",
+    "uptimeWeek": "75.69%",
+    "uptimeMonth": "82.05%",
+    "uptimeYear": "97.68%",
     "time": 4141,
-    "timeDay": 3041,
-    "timeWeek": 3489,
-    "timeMonth": 3921,
-    "timeYear": 4145,
+    "timeDay": 3268,
+    "timeWeek": 3507,
+    "timeMonth": 3917,
+    "timeYear": 4144,
     "dailyMinutesDown": {
       "2026-03-13": 54,
       "2026-03-14": 69,
@@ -71,7 +71,7 @@
       "2026-06-18": 873,
       "2026-06-20": 273,
       "2026-06-21": 294,
-      "2026-06-22": 203
+      "2026-06-22": 444
     }
   },
   {
@@ -209,17 +209,17 @@
     "url": "https://www.portaleolico.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.portaleolico.com.ico",
     "slug": "gas-natural-clientes",
-    "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "80.95%",
-    "uptimeWeek": "79.94%",
-    "uptimeMonth": "90.96%",
-    "uptimeYear": "98.80%",
-    "time": 796,
-    "timeDay": 1424,
-    "timeWeek": 1247,
-    "timeMonth": 1327,
-    "timeYear": 817,
+    "status": "up",
+    "uptime": "98.88%",
+    "uptimeDay": "65.55%",
+    "uptimeWeek": "77.55%",
+    "uptimeMonth": "90.41%",
+    "uptimeYear": "98.76%",
+    "time": 798,
+    "timeDay": 1578,
+    "timeWeek": 1256,
+    "timeMonth": 1329,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2025-10-10": 20,
       "2026-04-28": 438,
@@ -242,7 +242,7 @@
       "2026-06-19": 565,
       "2026-06-20": 250,
       "2026-06-21": 282,
-      "2026-06-22": 203
+      "2026-06-22": 444
     }
   },
   {
@@ -399,11 +399,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "eset-protect-cloud",
     "status": "down",
-    "uptime": "96.10%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "96.21%",
-    "uptimeYear": "96.05%",
+    "uptime": "96.05%",
+    "uptimeDay": "83.21%",
+    "uptimeWeek": "97.60%",
+    "uptimeMonth": "95.66%",
+    "uptimeYear": "96.01%",
     "time": 602,
     "timeDay": 834,
     "timeWeek": 747,
@@ -457,7 +457,7 @@
       "2026-05-30": 198,
       "2026-06-04": 633,
       "2026-06-03": 828,
-      "2026-06-22": 1
+      "2026-06-22": 242
     }
   }
 ]
