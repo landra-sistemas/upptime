@@ -5,11 +5,11 @@
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
     "status": "down",
-    "uptime": "97.88%",
+    "uptime": "97.87%",
     "uptimeDay": "58.41%",
-    "uptimeWeek": "71.23%",
-    "uptimeMonth": "81.15%",
-    "uptimeYear": "97.62%",
+    "uptimeWeek": "70.39%",
+    "uptimeMonth": "80.95%",
+    "uptimeYear": "97.60%",
     "time": 4148,
     "timeDay": 5428,
     "timeWeek": 3973,
@@ -71,7 +71,7 @@
       "2026-06-20": 273,
       "2026-06-21": 294,
       "2026-06-22": 444,
-      "2026-06-23": 450
+      "2026-06-23": 535
     }
   },
   {
@@ -209,17 +209,17 @@
     "url": "https://www.portaleolico.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.portaleolico.com.ico",
     "slug": "gas-natural-clientes",
-    "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "58.46%",
-    "uptimeWeek": "73.09%",
-    "uptimeMonth": "89.51%",
-    "uptimeYear": "98.67%",
-    "time": 803,
-    "timeDay": 1247,
+    "status": "up",
+    "uptime": "98.80%",
+    "uptimeDay": "58.50%",
+    "uptimeWeek": "72.25%",
+    "uptimeMonth": "89.32%",
+    "uptimeYear": "98.66%",
+    "time": 804,
+    "timeDay": 1246,
     "timeWeek": 1247,
-    "timeMonth": 1323,
-    "timeYear": 824,
+    "timeMonth": 1322,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2025-10-10": 20,
       "2026-04-28": 438,
@@ -243,7 +243,7 @@
       "2026-06-20": 250,
       "2026-06-21": 282,
       "2026-06-22": 444,
-      "2026-06-23": 449
+      "2026-06-23": 533
     }
   },
   {
@@ -400,11 +400,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "eset-protect-cloud",
     "status": "down",
-    "uptime": "95.84%",
+    "uptime": "95.82%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.80%",
-    "uptimeMonth": "92.72%",
-    "uptimeYear": "95.76%",
+    "uptimeWeek": "83.96%",
+    "uptimeMonth": "92.52%",
+    "uptimeYear": "95.74%",
     "time": 602,
     "timeDay": 644,
     "timeWeek": 732,
@@ -458,7 +458,7 @@
       "2026-05-30": 198,
       "2026-06-04": 633,
       "2026-06-03": 828,
-      "2026-06-23": 1235,
+      "2026-06-23": 1320,
       "2026-06-22": 297
     }
   }
