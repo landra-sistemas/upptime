@@ -4,10 +4,10 @@
     "url": "https://www.landrasistemas.es",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
-    "status": "up",
+    "status": "down",
     "uptime": "97.90%",
-    "uptimeDay": "51.73%",
-    "uptimeWeek": "73.20%",
+    "uptimeDay": "51.68%",
+    "uptimeWeek": "73.19%",
     "uptimeMonth": "81.47%",
     "uptimeYear": "97.64%",
     "time": 4145,
@@ -16,7 +16,6 @@
     "timeMonth": 3997,
     "timeYear": 4147,
     "dailyMinutesDown": {
-      "2026-03-13": 35,
       "2026-03-14": 69,
       "2026-03-15": 86,
       "2026-03-16": 29,
@@ -72,7 +71,7 @@
       "2026-06-20": 273,
       "2026-06-21": 294,
       "2026-06-22": 444,
-      "2026-06-23": 251
+      "2026-06-23": 252
     }
   },
   {
@@ -210,16 +209,16 @@
     "url": "https://www.portaleolico.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.portaleolico.com.ico",
     "slug": "gas-natural-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "51.77%",
-    "uptimeWeek": "75.06%",
+    "uptimeDay": "51.72%",
+    "uptimeWeek": "75.05%",
     "uptimeMonth": "89.84%",
     "uptimeYear": "98.71%",
     "time": 802,
-    "timeDay": 1305,
-    "timeWeek": 1278,
-    "timeMonth": 1333,
+    "timeDay": 1218,
+    "timeWeek": 1262,
+    "timeMonth": 1326,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2025-10-10": 20,
@@ -244,7 +243,7 @@
       "2026-06-20": 250,
       "2026-06-21": 282,
       "2026-06-22": 444,
-      "2026-06-23": 251
+      "2026-06-23": 252
     }
   },
   {
@@ -401,11 +400,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "eset-protect-cloud",
     "status": "down",
-    "uptime": "96.00%",
-    "uptimeDay": "60.32%",
-    "uptimeWeek": "94.33%",
-    "uptimeMonth": "94.91%",
-    "uptimeYear": "95.94%",
+    "uptime": "95.96%",
+    "uptimeDay": "45.24%",
+    "uptimeWeek": "92.18%",
+    "uptimeMonth": "94.41%",
+    "uptimeYear": "95.90%",
     "time": 602,
     "timeDay": 648,
     "timeWeek": 732,
@@ -459,7 +458,7 @@
       "2026-05-30": 198,
       "2026-06-04": 633,
       "2026-06-03": 828,
-      "2026-06-23": 274,
+      "2026-06-23": 492,
       "2026-06-22": 297
     }
   }
