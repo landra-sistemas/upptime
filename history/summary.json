@@ -5,11 +5,11 @@
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
     "status": "down",
-    "uptime": "97.77%",
+    "uptime": "97.75%",
     "uptimeDay": "59.87%",
-    "uptimeWeek": "62.80%",
-    "uptimeMonth": "79.21%",
-    "uptimeYear": "97.48%",
+    "uptimeWeek": "61.69%",
+    "uptimeMonth": "78.95%",
+    "uptimeYear": "97.46%",
     "time": 4152,
     "timeDay": 4523,
     "timeWeek": 4192,
@@ -70,7 +70,7 @@
       "2026-06-22": 444,
       "2026-06-23": 609,
       "2026-06-24": 691,
-      "2026-06-25": 0
+      "2026-06-25": 112
     }
   },
   {
@@ -210,7 +210,7 @@
     "slug": "gas-natural-clientes",
     "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "81.95%",
+    "uptimeDay": "89.73%",
     "uptimeWeek": "68.72%",
     "uptimeMonth": "88.51%",
     "uptimeYear": "98.59%",
@@ -401,7 +401,7 @@
     "slug": "eset-protect-cloud",
     "status": "up",
     "uptime": "95.73%",
-    "uptimeDay": "74.50%",
+    "uptimeDay": "82.28%",
     "uptimeWeek": "77.99%",
     "uptimeMonth": "91.15%",
     "uptimeYear": "95.63%",
