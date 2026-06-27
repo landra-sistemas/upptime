@@ -1,7 +1,7 @@
 url: https://www.landrasistemas.es
-status: up
-code: 200
-responseTime: 7181
-lastUpdated: 2026-06-27T05:40:12.415Z
+status: down
+code: 429
+responseTime: 2541
+lastUpdated: 2026-06-27T08:16:52.202Z
 startTime: 2025-05-09T11:47:33.447Z
 generator: Upptime <https://github.com/upptime/upptime>
