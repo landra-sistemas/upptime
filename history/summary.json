@@ -5,16 +5,16 @@
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
     "status": "down",
-    "uptime": "97.48%",
-    "uptimeDay": "94.51%",
-    "uptimeWeek": "83.08%",
-    "uptimeMonth": "80.28%",
-    "uptimeYear": "97.06%",
+    "uptime": "97.46%",
+    "uptimeDay": "91.88%",
+    "uptimeWeek": "81.92%",
+    "uptimeMonth": "80.01%",
+    "uptimeYear": "97.04%",
     "time": 4181,
-    "timeDay": 4749,
+    "timeDay": 3723,
     "timeWeek": 4677,
     "timeMonth": 4687,
-    "timeYear": 4180,
+    "timeYear": 4179,
     "dailyMinutesDown": {
       "2026-04-09": 138,
       "2026-04-10": 33,
@@ -66,7 +66,7 @@
       "2026-07-04": 274,
       "2026-07-05": 376,
       "2026-07-06": 153,
-      "2026-07-07": 0
+      "2026-07-07": 117
     }
   },
   {
@@ -204,17 +204,17 @@
     "url": "https://www.portaleolico.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.portaleolico.com.ico",
     "slug": "gas-natural-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "94.54%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "92.14%",
     "uptimeMonth": "85.67%",
     "uptimeYear": "98.17%",
     "time": 863,
-    "timeDay": 1455,
-    "timeWeek": 1326,
-    "timeMonth": 1299,
-    "timeYear": 895,
+    "timeDay": 1000,
+    "timeWeek": 1298,
+    "timeMonth": 1292,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2025-10-10": 20,
       "2026-04-28": 438,
@@ -249,7 +249,8 @@
       "2026-07-03": 118,
       "2026-07-04": 88,
       "2026-07-05": 130,
-      "2026-07-06": 153
+      "2026-07-06": 153,
+      "2026-07-07": 0
     }
   },
   {
@@ -408,14 +409,14 @@
     "status": "up",
     "uptime": "94.66%",
     "uptimeDay": "44.68%",
-    "uptimeWeek": "49.19%",
+    "uptimeWeek": "50.35%",
     "uptimeMonth": "78.63%",
     "uptimeYear": "94.71%",
     "time": 611,
     "timeDay": 691,
     "timeWeek": 798,
     "timeMonth": 814,
-    "timeYear": 574,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2025-07-08": 73,
       "2025-07-15": 42,
