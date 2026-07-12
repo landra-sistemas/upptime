@@ -4,19 +4,18 @@
     "url": "https://www.landrasistemas.es",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
-    "status": "up",
-    "uptime": "97.47%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.21%",
+    "status": "down",
+    "uptime": "97.48%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "95.08%",
     "uptimeMonth": "81.90%",
-    "uptimeYear": "97.03%",
-    "time": 4182,
+    "uptimeYear": "97.04%",
+    "time": 4183,
     "timeDay": 4175,
-    "timeWeek": 4522,
+    "timeWeek": 4437,
     "timeMonth": 4660,
     "timeYear": 4175,
     "dailyMinutesDown": {
-      "2026-04-11": 19,
       "2026-04-13": 199,
       "2026-04-15": 284,
       "2026-04-17": 54,
@@ -66,7 +65,8 @@
       "2026-07-06": 153,
       "2026-07-07": 133,
       "2026-07-09": 144,
-      "2026-07-10": 65
+      "2026-07-10": 65,
+      "2026-07-12": 1
     }
   },
   {
@@ -206,16 +206,16 @@
     "url": "https://www.portaleolico.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.portaleolico.com.ico",
     "slug": "gas-natural-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "98.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.59%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "96.87%",
     "uptimeMonth": "87.45%",
     "uptimeYear": "98.14%",
     "time": 870,
-    "timeDay": 1437,
-    "timeWeek": 1224,
-    "timeMonth": 1309,
+    "timeDay": 1241,
+    "timeWeek": 1221,
+    "timeMonth": 1307,
     "timeYear": 904,
     "dailyMinutesDown": {
       "2025-10-10": 20,
@@ -254,7 +254,8 @@
       "2026-07-06": 153,
       "2026-07-07": 16,
       "2026-07-09": 88,
-      "2026-07-10": 58
+      "2026-07-10": 58,
+      "2026-07-12": 0
     }
   },
   {
@@ -411,7 +412,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "eset-protect-cloud",
     "status": "up",
-    "uptime": "94.71%",
+    "uptime": "94.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.10%",
     "uptimeMonth": "78.63%",
