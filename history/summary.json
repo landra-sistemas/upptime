@@ -6,14 +6,14 @@
     "slug": "landra-website",
     "status": "up",
     "uptime": "97.50%",
-    "uptimeDay": "85.51%",
-    "uptimeWeek": "93.11%",
+    "uptimeDay": "86.60%",
+    "uptimeWeek": "93.27%",
     "uptimeMonth": "80.84%",
     "uptimeYear": "97.04%",
-    "time": 4195,
-    "timeDay": 6384,
-    "timeWeek": 4693,
-    "timeMonth": 4685,
+    "time": 4196,
+    "timeDay": 6667,
+    "timeWeek": 4696,
+    "timeMonth": 4686,
     "timeYear": 4178,
     "dailyMinutesDown": {
       "2026-04-17": 54,
@@ -75,13 +75,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.landrasoftware.com.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "98.99%",
-    "uptimeDay": "62.76%",
-    "uptimeWeek": "93.36%",
-    "uptimeMonth": "98.34%",
+    "uptime": "98.98%",
+    "uptimeDay": "61.63%",
+    "uptimeWeek": "93.20%",
+    "uptimeMonth": "98.30%",
     "uptimeYear": "98.86%",
     "time": 986,
-    "timeDay": 1049,
+    "timeDay": 0,
     "timeWeek": 990,
     "timeMonth": 987,
     "timeYear": 983,
@@ -109,7 +109,7 @@
       "2026-05-31": 716,
       "2026-06-18": 59,
       "2026-07-10": 133,
-      "2026-07-14": 536
+      "2026-07-14": 553
     }
   },
   {
@@ -119,12 +119,12 @@
     "slug": "telf-guardia-landra",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "62.78%",
-    "uptimeWeek": "94.68%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "61.64%",
+    "uptimeWeek": "94.52%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "99.76%",
     "time": 651,
-    "timeDay": 671,
+    "timeDay": 0,
     "timeWeek": 510,
     "timeMonth": 580,
     "timeYear": 650,
@@ -136,7 +136,7 @@
       "2025-12-11": 305,
       "2026-02-05": 113,
       "2026-06-18": 52,
-      "2026-07-14": 536
+      "2026-07-14": 552
     }
   },
   {
@@ -146,12 +146,12 @@
     "slug": "telf-guardia-abbot",
     "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "62.80%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "61.66%",
+    "uptimeWeek": "94.52%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "99.76%",
     "time": 182,
-    "timeDay": 460,
+    "timeDay": 0,
     "timeWeek": 496,
     "timeMonth": 536,
     "timeYear": 192,
@@ -163,7 +163,7 @@
       "2025-12-11": 305,
       "2026-02-05": 113,
       "2026-06-18": 45,
-      "2026-07-14": 536
+      "2026-07-14": 552
     }
   },
   {
@@ -173,12 +173,12 @@
     "slug": "sonarqube-dev",
     "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "62.81%",
-    "uptimeWeek": "93.37%",
-    "uptimeMonth": "98.39%",
+    "uptimeDay": "61.68%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "98.94%",
     "time": 1116,
-    "timeDay": 788,
+    "timeDay": 0,
     "timeWeek": 763,
     "timeMonth": 715,
     "timeYear": 1138,
@@ -202,7 +202,7 @@
       "2026-05-31": 705,
       "2026-06-18": 38,
       "2026-07-10": 132,
-      "2026-07-14": 536
+      "2026-07-14": 552
     }
   },
   {
@@ -212,15 +212,15 @@
     "slug": "gas-natural-clientes",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "97.03%",
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "97.16%",
     "uptimeMonth": "87.14%",
     "uptimeYear": "98.12%",
-    "time": 876,
-    "timeDay": 1544,
-    "timeWeek": 1309,
-    "timeMonth": 1317,
-    "timeYear": 912,
+    "time": 877,
+    "timeDay": 1376,
+    "timeWeek": 1367,
+    "timeMonth": 1319,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2025-10-10": 20,
       "2026-04-28": 438,
@@ -271,12 +271,12 @@
     "slug": "ypsofact-clientes",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "62.82%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "99.72%",
+    "uptimeDay": "61.69%",
+    "uptimeWeek": "94.53%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.71%",
     "time": 605,
-    "timeDay": 683,
+    "timeDay": 0,
     "timeWeek": 538,
     "timeMonth": 566,
     "timeYear": 603,
@@ -290,7 +290,7 @@
       "2025-12-10": 29,
       "2026-02-05": 59,
       "2026-06-18": 29,
-      "2026-07-14": 535
+      "2026-07-14": 552
     }
   },
   {
@@ -305,9 +305,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 615,
-    "timeDay": 707,
-    "timeWeek": 548,
-    "timeMonth": 616,
+    "timeDay": 563,
+    "timeWeek": 550,
+    "timeMonth": 614,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2026-04-23": 551,
@@ -326,9 +326,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 712,
-    "timeDay": 748,
-    "timeWeek": 610,
-    "timeMonth": 677,
+    "timeDay": 558,
+    "timeWeek": 604,
+    "timeMonth": 673,
     "timeYear": 709,
     "dailyMinutesDown": {}
   },
@@ -337,16 +337,16 @@
     "url": "https://oficina.landrasistemas.net/",
     "icon": "https://icons.duckduckgo.com/ip3/oficina.landrasistemas.net.ico",
     "slug": "oficina-wan",
-    "status": "down",
+    "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.53%",
-    "time": 954,
-    "timeDay": 925,
-    "timeWeek": 768,
-    "timeMonth": 837,
+    "time": 953,
+    "timeDay": 683,
+    "timeWeek": 757,
+    "timeMonth": 832,
     "timeYear": 939,
     "dailyMinutesDown": {
       "2025-08-21": 408,
@@ -358,7 +358,7 @@
       "2026-03-01": 42,
       "2026-06-01": 635,
       "2026-05-31": 699,
-      "2026-07-14": 1
+      "2026-07-14": 16
     }
   },
   {
@@ -367,13 +367,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "synology-c2-identity",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "62.83%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "98.73%",
+    "uptime": "99.80%",
+    "uptimeDay": "61.70%",
+    "uptimeWeek": "94.53%",
+    "uptimeMonth": "98.69%",
     "uptimeYear": "99.78%",
     "time": 648,
-    "timeDay": 792,
+    "timeDay": 0,
     "timeWeek": 787,
     "timeMonth": 865,
     "timeYear": 613,
@@ -386,7 +386,7 @@
       "2025-12-11": 290,
       "2026-02-05": 59,
       "2026-06-18": 22,
-      "2026-07-14": 535
+      "2026-07-14": 551
     }
   },
   {
@@ -396,12 +396,12 @@
     "slug": "synology-c2-password",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "62.85%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "98.78%",
+    "uptimeDay": "61.72%",
+    "uptimeWeek": "94.53%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "99.78%",
     "time": 315,
-    "timeDay": 727,
+    "timeDay": 0,
     "timeWeek": 576,
     "timeMonth": 651,
     "timeYear": 308,
@@ -413,7 +413,7 @@
       "2025-12-10": 28,
       "2025-12-11": 290,
       "2026-02-05": 59,
-      "2026-07-14": 535
+      "2026-07-14": 551
     }
   },
   {
@@ -423,12 +423,12 @@
     "slug": "eset-protect-cloud",
     "status": "down",
     "uptime": "94.66%",
-    "uptimeDay": "62.86%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "77.41%",
+    "uptimeDay": "61.73%",
+    "uptimeWeek": "94.53%",
+    "uptimeMonth": "77.37%",
     "uptimeYear": "94.62%",
     "time": 614,
-    "timeDay": 858,
+    "timeDay": 0,
     "timeWeek": 831,
     "timeMonth": 823,
     "timeYear": 581,
@@ -484,7 +484,7 @@
       "2026-06-30": 1440,
       "2026-06-29": 715,
       "2026-07-07": 797,
-      "2026-07-14": 535
+      "2026-07-14": 551
     }
   }
 ]
