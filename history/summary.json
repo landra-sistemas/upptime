@@ -5,15 +5,15 @@
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
     "status": "down",
-    "uptime": "97.50%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "92.29%",
-    "uptimeMonth": "82.14%",
-    "uptimeYear": "97.02%",
+    "uptime": "97.47%",
+    "uptimeDay": "88.54%",
+    "uptimeWeek": "90.66%",
+    "uptimeMonth": "82.00%",
+    "uptimeYear": "96.98%",
     "time": 4201,
     "timeDay": 5003,
     "timeWeek": 4920,
-    "timeMonth": 4705,
+    "timeMonth": 4717,
     "timeYear": 4186,
     "dailyMinutesDown": {
       "2026-04-19": 113,
@@ -67,7 +67,7 @@
       "2026-07-14": 193,
       "2026-07-15": 226,
       "2026-07-17": 84,
-      "2026-07-19": 0
+      "2026-07-19": 165
     }
   },
   {
@@ -84,7 +84,7 @@
     "time": 986,
     "timeDay": 1146,
     "timeWeek": 1008,
-    "timeMonth": 995,
+    "timeMonth": 1003,
     "timeYear": 984,
     "dailyMinutesDown": {
       "2025-07-28": 121,
@@ -128,7 +128,7 @@
     "time": 650,
     "timeDay": 694,
     "timeWeek": 606,
-    "timeMonth": 582,
+    "timeMonth": 588,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2025-07-28": 121,
@@ -156,7 +156,7 @@
     "time": 187,
     "timeDay": 615,
     "timeWeek": 568,
-    "timeMonth": 542,
+    "timeMonth": 543,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2025-07-28": 121,
@@ -184,7 +184,7 @@
     "time": 1111,
     "timeDay": 798,
     "timeWeek": 736,
-    "timeMonth": 718,
+    "timeMonth": 724,
     "timeYear": 1134,
     "dailyMinutesDown": {
       "2025-07-28": 121,
@@ -216,15 +216,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.portaleolico.com.ico",
     "slug": "gas-natural-clientes",
     "status": "down",
-    "uptime": "98.40%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.06%",
-    "uptimeMonth": "88.67%",
-    "uptimeYear": "98.10%",
+    "uptime": "98.37%",
+    "uptimeDay": "88.55%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "88.52%",
+    "uptimeYear": "98.07%",
     "time": 885,
     "timeDay": 1350,
     "timeWeek": 1456,
-    "timeMonth": 1341,
+    "timeMonth": 1346,
     "timeYear": 923,
     "dailyMinutesDown": {
       "2025-10-10": 20,
@@ -268,7 +268,7 @@
       "2026-07-13": 25,
       "2026-07-14": 67,
       "2026-07-15": 57,
-      "2026-07-19": 0
+      "2026-07-19": 165
     }
   },
   {
@@ -285,7 +285,7 @@
     "time": 605,
     "timeDay": 687,
     "timeWeek": 645,
-    "timeMonth": 579,
+    "timeMonth": 584,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2025-07-28": 121,
@@ -315,7 +315,7 @@
     "time": 614,
     "timeDay": 665,
     "timeWeek": 581,
-    "timeMonth": 607,
+    "timeMonth": 610,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2026-04-23": 551,
@@ -338,7 +338,7 @@
     "time": 712,
     "timeDay": 743,
     "timeWeek": 698,
-    "timeMonth": 677,
+    "timeMonth": 681,
     "timeYear": 708,
     "dailyMinutesDown": {}
   },
@@ -356,7 +356,7 @@
     "time": 952,
     "timeDay": 943,
     "timeWeek": 801,
-    "timeMonth": 828,
+    "timeMonth": 832,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2025-08-21": 408,
@@ -414,7 +414,7 @@
     "time": 320,
     "timeDay": 687,
     "timeWeek": 704,
-    "timeMonth": 652,
+    "timeMonth": 653,
     "timeYear": 314,
     "dailyMinutesDown": {
       "2025-07-28": 121,
@@ -442,7 +442,7 @@
     "time": 618,
     "timeDay": 1134,
     "timeWeek": 964,
-    "timeMonth": 841,
+    "timeMonth": 845,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2025-07-28": 121,
