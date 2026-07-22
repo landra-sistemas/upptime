@@ -279,12 +279,12 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "99.59%",
     "time": 604,
     "timeDay": 512,
-    "timeWeek": 586,
+    "timeWeek": 581,
     "timeMonth": 581,
     "timeYear": 603,
     "dailyMinutesDown": {
@@ -309,7 +309,7 @@
     "status": "up",
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.06%",
+    "uptimeWeek": "87.21%",
     "uptimeMonth": "96.02%",
     "uptimeYear": "99.38%",
     "time": 615,
@@ -505,35 +505,39 @@
     "url": "https://gaia-hd.landrasoftware.com",
     "icon": "https://icons.duckduckgo.com/ip3/gaia-hd.landrasoftware.com.ico",
     "slug": "gaia-hd",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 1048,
     "timeDay": 1048,
     "timeWeek": 1048,
     "timeMonth": 1048,
     "timeYear": 1048,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-22": 1
+    }
   },
   {
     "name": "IAM",
     "url": "https://iam.landrasoftware.com",
     "icon": "https://icons.duckduckgo.com/ip3/iam.landrasoftware.com.ico",
     "slug": "iam",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 1369,
     "timeDay": 1369,
     "timeWeek": 1369,
     "timeMonth": 1369,
     "timeYear": 1369,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-22": 1
+    }
   }
 ]
