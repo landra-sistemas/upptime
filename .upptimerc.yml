@@ -39,8 +39,6 @@ sites:
   - name: ESET Protect Cloud
     url: https://integration.landrasoftware.com/eset_check
     
-  - name: Ypsofact (Clientes)
-    url: https://ypsofact.landrasoftware.com
   - name: Gaia HD
     url: https://gaia-hd.landrasoftware.com
   - name: IAM 
