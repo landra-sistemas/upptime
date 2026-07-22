@@ -40,11 +40,11 @@ sites:
     url: https://integration.landrasoftware.com/eset_check
     
   - name: Ypsofact (Clientes)
-    url: ypsofact.landrasoftware.com
+    url: https://ypsofact.landrasoftware.com
   - name: Gaia HD
-    url: gaia-hd.landrasoftware.com
+    url: https://gaia-hd.landrasoftware.com
   - name: IAM 
-    url: iam.landrasoftware.com
+    url: https://iam.landrasoftware.com
 
 
     
