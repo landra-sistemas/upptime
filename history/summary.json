@@ -4,19 +4,19 @@
     "url": "https://www.landrasistemas.es",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
-    "status": "up",
-    "uptime": "97.94%",
-    "uptimeDay": "89.93%",
+    "status": "down",
+    "uptime": "97.96%",
+    "uptimeDay": "92.45%",
     "uptimeWeek": "94.01%",
     "uptimeMonth": "93.18%",
-    "uptimeYear": "97.41%",
+    "uptimeYear": "97.43%",
     "time": 4142,
     "timeDay": 4199,
     "timeWeek": 3550,
     "timeMonth": 3624,
     "timeYear": 4113,
     "dailyMinutesDown": {
-      "2026-06-05": 173,
+      "2026-06-05": 59,
       "2026-06-06": 646,
       "2026-06-07": 834,
       "2026-06-08": 422,
@@ -65,7 +65,8 @@
       "2026-08-07": 66,
       "2026-08-08": 114,
       "2026-08-09": 53,
-      "2026-08-10": 145
+      "2026-08-10": 145,
+      "2026-08-11": 0
     }
   },
   {
@@ -307,7 +308,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/microbiota.microviable.com.ico",
     "slug": "microviable-clientes",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.02%",
