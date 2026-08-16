@@ -434,17 +434,17 @@
     "url": "https://integration.landrasoftware.com/eset_check",
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "eset-protect-cloud",
-    "status": "up",
-    "uptime": "94.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.29%",
+    "status": "down",
+    "uptime": "94.72%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "96.28%",
     "uptimeYear": "94.34%",
     "time": 628,
-    "timeDay": 942,
-    "timeWeek": 775,
-    "timeMonth": 770,
-    "timeYear": 610,
+    "timeDay": 831,
+    "timeWeek": 768,
+    "timeMonth": 769,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2025-08-27": 17,
       "2025-10-20": 27,
@@ -499,7 +499,8 @@
       "2026-07-24": 570,
       "2026-07-23": 428,
       "2026-08-04": 167,
-      "2026-08-05": 157
+      "2026-08-05": 157,
+      "2026-08-16": 1
     }
   },
   {
