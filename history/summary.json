@@ -4,17 +4,17 @@
     "url": "https://www.landrasistemas.es",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
-    "status": "down",
-    "uptime": "98.46%",
-    "uptimeDay": "92.09%",
-    "uptimeWeek": "89.26%",
-    "uptimeMonth": "92.36%",
+    "status": "up",
+    "uptime": "98.45%",
+    "uptimeDay": "90.78%",
+    "uptimeWeek": "89.08%",
+    "uptimeMonth": "92.31%",
     "uptimeYear": "98.03%",
     "time": 4140,
-    "timeDay": 3278,
-    "timeWeek": 3540,
-    "timeMonth": 3406,
-    "timeYear": 4067,
+    "timeDay": 3280,
+    "timeWeek": 3531,
+    "timeMonth": 3405,
+    "timeYear": 4066,
     "dailyMinutesDown": {
       "2026-06-21": 294,
       "2026-06-20": 22,
@@ -65,7 +65,7 @@
       "2026-08-15": 47,
       "2026-08-16": 129,
       "2026-08-17": 83,
-      "2026-08-18": 94
+      "2026-08-18": 113
     }
   },
   {
@@ -209,17 +209,17 @@
     "url": "https://www.portaleolico.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.portaleolico.com.ico",
     "slug": "gas-natural-clientes",
-    "status": "down",
+    "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "97.33%",
-    "uptimeMonth": "97.10%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "97.06%",
     "uptimeYear": "97.86%",
-    "time": 950,
-    "timeDay": 1410,
-    "timeWeek": 1417,
-    "timeMonth": 1543,
-    "timeYear": 1019,
+    "time": 957,
+    "timeDay": 2252,
+    "timeWeek": 1638,
+    "timeMonth": 1606,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2025-10-10": 20,
       "2026-04-28": 438,
@@ -273,7 +273,7 @@
       "2026-08-12": 65,
       "2026-08-14": 147,
       "2026-08-15": 28,
-      "2026-08-18": 28
+      "2026-08-18": 47
     }
   },
   {
@@ -439,8 +439,8 @@
     "status": "down",
     "uptime": "94.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.03%",
-    "uptimeMonth": "91.46%",
+    "uptimeWeek": "78.83%",
+    "uptimeMonth": "91.42%",
     "uptimeYear": "93.94%",
     "time": 628,
     "timeDay": 778,
@@ -502,7 +502,7 @@
       "2026-07-23": 428,
       "2026-08-04": 167,
       "2026-08-05": 157,
-      "2026-08-18": 584,
+      "2026-08-18": 603,
       "2026-08-17": 1440,
       "2026-08-16": 90
     }
