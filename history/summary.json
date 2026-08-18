@@ -4,17 +4,17 @@
     "url": "https://www.landrasistemas.es",
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
-    "status": "down",
+    "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "92.19%",
-    "uptimeWeek": "90.19%",
-    "uptimeMonth": "92.31%",
+    "uptimeDay": "90.88%",
+    "uptimeWeek": "90.20%",
+    "uptimeMonth": "92.27%",
     "uptimeYear": "98.03%",
-    "time": 4140,
-    "timeDay": 3216,
-    "timeWeek": 3426,
-    "timeMonth": 3405,
-    "timeYear": 4066,
+    "time": 4138,
+    "timeDay": 3013,
+    "timeWeek": 3382,
+    "timeMonth": 3390,
+    "timeYear": 4063,
     "dailyMinutesDown": {
       "2026-06-21": 284,
       "2026-06-22": 444,
@@ -64,7 +64,7 @@
       "2026-08-15": 47,
       "2026-08-16": 129,
       "2026-08-17": 83,
-      "2026-08-18": 113
+      "2026-08-18": 132
     }
   },
   {
@@ -361,7 +361,7 @@
     "timeDay": 768,
     "timeWeek": 866,
     "timeMonth": 865,
-    "timeYear": 933,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2025-08-21": 408,
       "2025-08-20": 14,
@@ -390,7 +390,7 @@
     "timeDay": 767,
     "timeWeek": 639,
     "timeMonth": 815,
-    "timeYear": 622,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2025-08-27": 17,
       "2025-11-21": 28,
@@ -437,7 +437,7 @@
     "slug": "eset-protect-cloud",
     "status": "up",
     "uptime": "94.38%",
-    "uptimeDay": "39.83%",
+    "uptimeDay": "41.15%",
     "uptimeWeek": "76.81%",
     "uptimeMonth": "90.95%",
     "uptimeYear": "93.90%",
@@ -445,7 +445,7 @@
     "timeDay": 752,
     "timeWeek": 765,
     "timeMonth": 766,
-    "timeYear": 612,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2025-08-27": 17,
       "2025-10-20": 27,
