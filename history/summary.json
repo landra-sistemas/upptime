@@ -280,7 +280,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ypsofact.landrasoftware.com.ico",
     "slug": "ypsofact-clientes",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
@@ -433,16 +433,16 @@
     "url": "https://integration.landrasoftware.com/eset_check",
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "eset-protect-cloud",
-    "status": "down",
-    "uptime": "94.40%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "76.80%",
-    "uptimeMonth": "91.64%",
-    "uptimeYear": "93.90%",
+    "status": "up",
+    "uptime": "94.39%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "76.15%",
+    "uptimeMonth": "91.50%",
+    "uptimeYear": "93.88%",
     "time": 630,
-    "timeDay": 770,
-    "timeWeek": 784,
-    "timeMonth": 763,
+    "timeDay": 730,
+    "timeWeek": 772,
+    "timeMonth": 760,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2025-08-27": 17,
@@ -502,7 +502,7 @@
       "2026-08-18": 808,
       "2026-08-17": 1440,
       "2026-08-16": 90,
-      "2026-08-20": 1
+      "2026-08-20": 66
     }
   },
   {
