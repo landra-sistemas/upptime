@@ -5,11 +5,11 @@
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
     "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "85.70%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "94.78%",
-    "uptimeYear": "98.40%",
+    "uptime": "98.77%",
+    "uptimeDay": "76.06%",
+    "uptimeWeek": "96.58%",
+    "uptimeMonth": "94.46%",
+    "uptimeYear": "98.37%",
     "time": 4106,
     "timeDay": 3755,
     "timeWeek": 3968,
@@ -68,7 +68,7 @@
       "2026-08-25": 44,
       "2026-08-26": 66,
       "2026-09-04": 206,
-      "2026-09-05": 0
+      "2026-09-05": 139
     }
   },
   {
