@@ -14,7 +14,7 @@
     "timeDay": 3066,
     "timeWeek": 3459,
     "timeMonth": 3460,
-    "timeYear": 3975,
+    "timeYear": 3972,
     "dailyMinutesDown": {
       "2026-06-26": 737,
       "2026-06-27": 691,
@@ -430,17 +430,17 @@
     "url": "https://integration.landrasoftware.com/eset_check",
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "eset-protect-cloud",
-    "status": "down",
-    "uptime": "94.34%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "81.24%",
-    "uptimeMonth": "90.20%",
-    "uptimeYear": "93.53%",
-    "time": 635,
-    "timeDay": 838,
-    "timeWeek": 756,
-    "timeMonth": 770,
-    "timeYear": 631,
+    "status": "up",
+    "uptime": "94.30%",
+    "uptimeDay": "81.41%",
+    "uptimeWeek": "80.46%",
+    "uptimeMonth": "89.59%",
+    "uptimeYear": "93.48%",
+    "time": 636,
+    "timeDay": 906,
+    "timeWeek": 813,
+    "timeMonth": 777,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2025-10-20": 27,
       "2025-10-22": 73,
@@ -501,7 +501,7 @@
       "2026-08-20": 66,
       "2026-09-02": 1074,
       "2026-09-01": 816,
-      "2026-09-08": 1
+      "2026-09-08": 268
     }
   },
   {
