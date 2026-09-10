@@ -5,15 +5,15 @@
     "icon": "https://dash.landrasoftware.com/data/userTabs/favicon.png",
     "slug": "landra-website",
     "status": "up",
-    "uptime": "98.76%",
+    "uptime": "98.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.28%",
-    "uptimeMonth": "95.17%",
+    "uptimeMonth": "95.39%",
     "uptimeYear": "98.35%",
     "time": 4091,
     "timeDay": 3264,
     "timeWeek": 2961,
-    "timeMonth": 3465,
+    "timeMonth": 3425,
     "timeYear": 3954,
     "dailyMinutesDown": {
       "2026-06-26": 737,
@@ -203,10 +203,10 @@
     "url": "https://www.portaleolico.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.portaleolico.com.ico",
     "slug": "gas-natural-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "98.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "97.84%",
     "time": 983,
@@ -271,7 +271,8 @@
       "2026-08-21": 28,
       "2026-08-23": 19,
       "2026-08-24": 17,
-      "2026-08-25": 43
+      "2026-08-25": 43,
+      "2026-09-10": 1
     }
   },
   {
