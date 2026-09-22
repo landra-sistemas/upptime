@@ -523,21 +523,21 @@
     "url": "https://gaia-hd.landrasoftware.com",
     "icon": "https://icons.duckduckgo.com/ip3/gaia-hd.landrasoftware.com.ico",
     "slug": "gaia-hd",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "95.06%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "99.34%",
-    "time": 1211,
-    "timeDay": 847,
-    "timeWeek": 997,
-    "timeMonth": 1108,
-    "timeYear": 1211,
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "83.85%",
+    "uptimeWeek": "92.77%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "99.08%",
+    "time": 1214,
+    "timeDay": 1136,
+    "timeWeek": 1051,
+    "timeMonth": 1118,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2026-07-22": 94,
       "2026-09-16": 497,
-      "2026-09-22": 1
+      "2026-09-22": 233
     }
   },
   {
