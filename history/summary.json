@@ -13,7 +13,7 @@
     "time": 4076,
     "timeDay": 3099,
     "timeWeek": 4173,
-    "timeMonth": 3682,
+    "timeMonth": 3664,
     "timeYear": 3895,
     "dailyMinutesDown": {
       "2026-06-26": 253,
@@ -441,17 +441,17 @@
     "url": "https://integration.landrasoftware.com/eset_check",
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "eset-protect-cloud",
-    "status": "down",
-    "uptime": "94.32%",
-    "uptimeDay": "64.64%",
-    "uptimeWeek": "90.02%",
-    "uptimeMonth": "92.78%",
-    "uptimeYear": "93.29%",
-    "time": 641,
-    "timeDay": 774,
-    "timeWeek": 811,
-    "timeMonth": 809,
-    "timeYear": 644,
+    "status": "up",
+    "uptime": "94.25%",
+    "uptimeDay": "32.00%",
+    "uptimeWeek": "85.36%",
+    "uptimeMonth": "91.70%",
+    "uptimeYear": "93.20%",
+    "time": 642,
+    "timeDay": 841,
+    "timeWeek": 829,
+    "timeMonth": 814,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2025-10-20": 27,
       "2025-10-22": 73,
@@ -514,7 +514,7 @@
       "2026-09-01": 816,
       "2026-09-08": 268,
       "2026-09-16": 497,
-      "2026-09-22": 230,
+      "2026-09-22": 700,
       "2026-09-21": 279
     }
   },
@@ -523,11 +523,11 @@
     "url": "https://gaia-hd.landrasoftware.com",
     "icon": "https://icons.duckduckgo.com/ip3/gaia-hd.landrasoftware.com.ico",
     "slug": "gaia-hd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "98.87%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "95.06%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.34%",
     "time": 1211,
     "timeDay": 847,
@@ -536,7 +536,8 @@
     "timeYear": 1211,
     "dailyMinutesDown": {
       "2026-07-22": 94,
-      "2026-09-16": 497
+      "2026-09-16": 497,
+      "2026-09-22": 1
     }
   },
   {
