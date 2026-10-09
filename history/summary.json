@@ -82,11 +82,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dash.landrasoftware.com.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "98.78%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "94.87%",
-    "uptimeYear": "98.46%",
+    "uptime": "98.76%",
+    "uptimeDay": "90.61%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "94.57%",
+    "uptimeYear": "98.44%",
     "time": 975,
     "timeDay": 468,
     "timeWeek": 868,
@@ -116,7 +116,7 @@
       "2026-09-26": 247,
       "2026-09-28": 451,
       "2026-09-27": 1049,
-      "2026-10-09": 1
+      "2026-10-09": 135
     }
   },
   {
@@ -179,11 +179,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonar.landrasoftware.com.ico",
     "slug": "sonarqube-dev",
     "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "94.30%",
-    "uptimeYear": "98.47%",
+    "uptime": "98.82%",
+    "uptimeDay": "90.62%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "93.99%",
+    "uptimeYear": "98.45%",
     "time": 1050,
     "timeDay": 700,
     "timeWeek": 683,
@@ -209,7 +209,7 @@
       "2026-09-16": 498,
       "2026-09-28": 951,
       "2026-09-27": 1048,
-      "2026-10-09": 1
+      "2026-10-09": 135
     }
   },
   {
@@ -448,11 +448,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/integration.landrasoftware.com.ico",
     "slug": "eset-protect-cloud",
     "status": "down",
-    "uptime": "93.08%",
+    "uptime": "93.07%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.90%",
-    "uptimeMonth": "74.10%",
-    "uptimeYear": "91.32%",
+    "uptimeWeek": "75.56%",
+    "uptimeMonth": "73.79%",
+    "uptimeYear": "91.29%",
     "time": 616,
     "timeDay": 672,
     "timeWeek": 828,
@@ -529,7 +529,7 @@
       "2026-10-01": 523,
       "2026-09-30": 1440,
       "2026-09-29": 310,
-      "2026-10-09": 172,
+      "2026-10-09": 306,
       "2026-10-08": 1440,
       "2026-10-07": 717
     }
