@@ -1,7 +1,7 @@
 url: https://sonar.landrasoftware.com
-status: down
-code: 502
-responseTime: 437
-lastUpdated: 2026-10-15T06:32:51.057Z
+status: up
+code: 200
+responseTime: 704
+lastUpdated: 2026-10-15T12:00:26.722Z
 startTime: 2025-05-12T13:18:57.253Z
 generator: Upptime <https://github.com/upptime/upptime>
